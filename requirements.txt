@@ -2,5 +2,5 @@ requests
 asyncio
 loguru
 websockets_proxy
-fake_useragent
+fake-useragent==1.5.1
 websockets==12.0
